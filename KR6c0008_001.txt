@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:40.311012
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 大慧度經宗要
 #+PROPERTY: CBETA_ID T33n1697
 #+PROPERTY: ID KR6c0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1697
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0008_T_000-0068b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0008_T_001-0068b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1697[cf.No.223]¶
-
- 大慧度經宗要¶
+No. 1697 [cf. No. 223]¶
+大慧度經宗要¶
 ¶
 釋　元曉撰¶
 
@@ -97,9 +96,9 @@ No.1697[cf.No.223]¶
 「　有非有俱非
 　諸宗皆寂滅¶
 　於中欲興難
-　畢竟不能申
+　畢竟不能申」
 #+END_VERSE
-」¶
+¶
 
 或有說者依此大般若經以如來藏為實相般¶
 若。如下理趣分中言。爾時世尊復依一切住¶
@@ -225,9 +224,9 @@ No.1697[cf.No.223]¶
 　若人見般若
 　是則得解脫¶
 　若不見般若
-　則亦得解脫
+　則亦得解脫」
 #+END_VERSE
-」¶
+¶
 
 上來第二顯經宗竟。¶
 
